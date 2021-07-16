@@ -1,0 +1,41 @@
+INFO:root:2021-07-12 14:59:00.192934 185.26.134.76 user N/A servapi@GET: v_wholesale.json
+INFO:root:2021-07-12 14:59:00.193775 served
+ERROR:app:Exception on /api/v1/store_prices [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_restful/__init__.py", line 468, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_restful/__init__.py", line 583, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_jwt_extended/view_decorators.py", line 115, in decorator
+    verify_jwt_in_request(optional, fresh, refresh, locations)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_jwt_extended/view_decorators.py", line 67, in verify_jwt_in_request
+    jwt_data, jwt_header = _decode_jwt_from_request(locations, fresh)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_jwt_extended/view_decorators.py", line 261, in _decode_jwt_from_request
+    decoded_token = decode_token(encoded_token, csrf_token)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_jwt_extended/utils.py", line 106, in decode_token
+    return jwt_manager._decode_jwt_from_config(encoded_token, csrf_value, allow_expired)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_jwt_extended/jwt_manager.py", line 528, in _decode_jwt_from_config
+    return _decode_jwt(**kwargs, allow_expired=allow_expired)
+  File "/home/servapi/.local/lib/python3.8/site-packages/flask_jwt_extended/tokens.py", line 84, in _decode_jwt
+    decoded_token = jwt.decode(
+  File "/home/servapi/.local/lib/python3.8/site-packages/jwt/api_jwt.py", line 113, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "/home/servapi/.local/lib/python3.8/site-packages/jwt/api_jwt.py", line 100, in decode_complete
+    self._validate_claims(payload, merged_options, **kwargs)
+  File "/home/servapi/.local/lib/python3.8/site-packages/jwt/api_jwt.py", line 136, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "/home/servapi/.local/lib/python3.8/site-packages/jwt/api_jwt.py", line 171, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+INFO:root:2021-07-12 15:01:33.372017185.26.134.76vaitkusGET StorePrice
+INFO:root:114
+INFO:root:2021-07-15 12:19:58.917092 servapi started
+INFO:root:2021-07-15 12:20:41.285899 servapi started
+INFO:root:2021-07-15 12:23:17.892672 servapi started
+INFO:root:2021-07-15 12:26:56.638481 54.86.50.139 user N/A servapi@5000 v1 veikia

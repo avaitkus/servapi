@@ -1,0 +1,58 @@
+data class Root(
+    val sku: String,
+    val name: String,
+    val description: String,
+    val weight: String,
+    val dimensions: Dimensions,
+    val categories: List<Category>,
+    val images: List<Image>,
+    val attributes: List<Attribute>,
+    val translations: Translations,
+    val lang: String,
+    val id: Long
+)
+
+data class Dimensions(
+    val length: String,
+    val width: String,
+    val height: String
+)
+
+data class Category(
+    val id: Long,
+    val name: String,
+    val slug: String
+)
+
+data class Image(
+    val id: Long,
+    @field:JsonProperty("date_created")
+    val dateCreated: String,
+    @field:JsonProperty("date_created_gmt")
+    val dateCreatedGmt: String,
+    @field:JsonProperty("date_modified")
+    val dateModified: String,
+    @field:JsonProperty("date_modified_gmt")
+    val dateModifiedGmt: String,
+    val src: String,
+    val name: String,
+    val alt: String
+)
+
+data class Attribute(
+    val id: Long,
+    val name: String,
+    val position: Long,
+    val visible: Boolean,
+    val variation: Boolean,
+    val options: List<String>
+)
+
+data class Translations(
+    val en: String,
+    val et: String,
+    val lt: String,
+    val lv: String,
+    val ru: String
+)
+

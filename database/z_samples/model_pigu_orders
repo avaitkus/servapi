@@ -1,0 +1,370 @@
+{
+    "meta": {
+        "limit": 20,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 3,
+        "submitted_count": 3,
+        "late_count": 0,
+        "need_to_send_count": 0,
+        "unpaid_count": 0,
+        "open_incident_count": 0
+    },
+    "orders": [
+        {
+            "id": 3240638,
+            "external_id": 11504602,
+            "app_name": "220.lv",
+            "seller": {
+                "id": 9990411,
+                "native_country": "LT",
+                "title": "Omnia Vincit UAB",
+                "address": "Draugystės g. 17-1, LT-51229 Kaunas, Lietuva",
+                "city": null,
+                "email": "Sigitas@omvi.lt",
+                "status": "active",
+                "created_at": "2020-03-27T17:12:06+02:00",
+                "updated_at": "2021-05-05T10:08:16+03:00"
+            },
+            "user": {
+                "id": 1602358,
+                "email": "zakitis552@inbox.lv",
+                "first_name": "Amanda",
+                "last_name": "Vaičuna"
+            },
+            "billing_address": {
+                "id": 4698008,
+                "title": "",
+                "city": "Liepāja",
+                "address": "Atmodas bulvāris 8-16",
+                "post_code": "3414",
+                "phone": "29829683",
+                "address_type": "personal",
+                "company_name": "",
+                "company_code": "",
+                "company_vat_code": "",
+                "company_address": "",
+                "additional_info": "",
+                "receiver_first_name": "Amanda",
+                "receiver_last_name": "Vaičuna"
+            },
+            "shipping_address": {
+                "id": 4698013,
+                "title": "Paku Skapis Rimi Ziemeļu",
+                "city": "",
+                "address": "Ziemeļu iela 13 ",
+                "post_code": "3405",
+                "phone": "",
+                "address_type": "",
+                "company_name": "",
+                "company_code": "",
+                "company_vat_code": "",
+                "company_address": null,
+                "additional_info": "",
+                "receiver_first_name": null,
+                "receiver_last_name": null
+            },
+            "order_status": "submitted",
+            "payment_status": "paid",
+            "cod_order": 0,
+            "user_comment": "",
+            "weight": "0.39",
+            "discount": "0.00",
+            "delivery_price": "1.69",
+            "serve_price": "0.00",
+            "total_price": "19.59",
+            "deadline_date": "2021-05-10T18:00:00+03:00",
+            "delivery_type": "dpd_pickup",
+            "seller_delivery_type": "direct",
+            "created_at": "2021-05-05T15:20:34+03:00",
+            "updated_at": "2021-05-05T15:24:08+03:00",
+            "products": [
+                {
+                    "id": 4454843,
+                    "modification": {
+                        "id": 8723900,
+                        "external_id": 101,
+                        "app_name": "220.lv",
+                        "title": "PIEGĀDE",
+                        "sku": null,
+                        "ean": null
+                    },
+                    "external_id": 28639771,
+                    "product_type": "delivery",
+                    "amount": 1,
+                    "price": "1.69",
+                    "status": "in_store",
+                    "price_without_vat": "1.40",
+                    "discount": "0.00",
+                    "commission": "0.00",
+                    "commission_without_vat": "0.00"
+                },
+                {
+                    "id": 4454848,
+                    "modification": {
+                        "id": 2207131,
+                        "external_id": 5731624,
+                        "app_name": "220.lv",
+                        "title": "Ēterisko eļļu komplekts Anjou AJ-PCN013, 12x5 ml",
+                        "sku": "10-01000-015",
+                        "ean": "6970651385556"
+                    },
+                    "external_id": 28639774,
+                    "product_type": "product",
+                    "amount": 1,
+                    "price": "17.90",
+                    "status": "empty",
+                    "price_without_vat": "14.79",
+                    "discount": "0.00",
+                    "commission": "2.69",
+                    "commission_without_vat": "2.69"
+                }
+            ],
+            "statuses": [
+                {
+                    "status": "submitted",
+                    "created_at": "2021-05-05T15:20:34+03:00"
+                }
+            ],
+            "invoice_no": null,
+            "prefix": null
+        },
+        {
+            "id": 3239993,
+            "external_id": 60837046,
+            "app_name": "pigu.lt",
+            "seller": {
+                "id": 9990411,
+                "native_country": "LT",
+                "title": "Omnia Vincit UAB",
+                "address": "Draugystės g. 17-1, LT-51229 Kaunas, Lietuva",
+                "city": null,
+                "email": "Sigitas@omvi.lt",
+                "status": "active",
+                "created_at": "2020-03-27T17:12:06+02:00",
+                "updated_at": "2021-05-05T10:08:16+03:00"
+            },
+            "user": {
+                "id": 1819753,
+                "email": "drakosaz@gmail.com",
+                "first_name": "Justinas",
+                "last_name": "Mockus"
+            },
+            "billing_address": {
+                "id": 4697313,
+                "title": "",
+                "city": "Vilnius",
+                "address": "Dūkštų g. 3 -24",
+                "post_code": "07175",
+                "phone": "+37063996903",
+                "address_type": "personal",
+                "company_name": "",
+                "company_code": "",
+                "company_vat_code": "",
+                "company_address": "",
+                "additional_info": "",
+                "receiver_first_name": "Justinas",
+                "receiver_last_name": "Mockus"
+            },
+            "shipping_address": {
+                "id": 4697318,
+                "title": "IKI Minskas",
+                "city": "Vilnius",
+                "address": "Žirmūnų g. 2",
+                "post_code": "",
+                "phone": "",
+                "address_type": "",
+                "company_name": "",
+                "company_code": "",
+                "company_vat_code": "",
+                "company_address": null,
+                "additional_info": "Terminalas yra lauke, matomas iš Žirmūnų g.",
+                "receiver_first_name": null,
+                "receiver_last_name": null
+            },
+            "order_status": "submitted",
+            "payment_status": "paid",
+            "cod_order": 0,
+            "user_comment": "",
+            "weight": "2.10",
+            "discount": "0.00",
+            "delivery_price": "1.99",
+            "serve_price": "0.00",
+            "total_price": "129.99",
+            "deadline_date": "2021-05-07T18:00:00+03:00",
+            "delivery_type": "lp_express",
+            "seller_delivery_type": "direct",
+            "created_at": "2021-05-05T14:43:03+03:00",
+            "updated_at": "2021-05-05T14:45:28+03:00",
+            "products": [
+                {
+                    "id": 4453983,
+                    "modification": {
+                        "id": 8710840,
+                        "external_id": 510818,
+                        "app_name": "pigu.lt",
+                        "title": "Pristatymas",
+                        "sku": null,
+                        "ean": "PIGU510818"
+                    },
+                    "external_id": 146395211,
+                    "product_type": "delivery",
+                    "amount": 1,
+                    "price": "1.99",
+                    "status": "in_store",
+                    "price_without_vat": "1.64",
+                    "discount": "0.00",
+                    "commission": "0.00",
+                    "commission_without_vat": "0.00"
+                },
+                {
+                    "id": 4453988,
+                    "modification": {
+                        "id": 9435256,
+                        "external_id": 36765721,
+                        "app_name": "pigu.lt",
+                        "title": "Masažuoklis, gilaus poveikio, TaoTronics TT-PCA003, 24W, pilkas",
+                        "sku": "20-01000-223",
+                        "ean": "6972103467025"
+                    },
+                    "external_id": 146395216,
+                    "product_type": "product",
+                    "amount": 1,
+                    "price": "128.00",
+                    "status": "empty",
+                    "price_without_vat": "105.79",
+                    "discount": "0.00",
+                    "commission": "18.59",
+                    "commission_without_vat": "15.36"
+                }
+            ],
+            "statuses": [
+                {
+                    "status": "submitted",
+                    "created_at": "2021-05-05T14:43:03+03:00"
+                }
+            ],
+            "invoice_no": null,
+            "prefix": null
+        },
+        {
+            "id": 3238163,
+            "external_id": 11503138,
+            "app_name": "220.lv",
+            "seller": {
+                "id": 9990411,
+                "native_country": "LT",
+                "title": "Omnia Vincit UAB",
+                "address": "Draugystės g. 17-1, LT-51229 Kaunas, Lietuva",
+                "city": null,
+                "email": "Sigitas@omvi.lt",
+                "status": "active",
+                "created_at": "2020-03-27T17:12:06+02:00",
+                "updated_at": "2021-05-05T10:08:16+03:00"
+            },
+            "user": {
+                "id": 1819128,
+                "email": "diii4@inbox.lv",
+                "first_name": "Diāna",
+                "last_name": "Reinvalde"
+            },
+            "billing_address": {
+                "id": 4695328,
+                "title": "",
+                "city": "",
+                "address": "",
+                "post_code": "",
+                "phone": "+37126767024",
+                "address_type": "personal",
+                "company_name": "",
+                "company_code": "",
+                "company_vat_code": "",
+                "additional_info": "",
+                "receiver_first_name": "Diāna",
+                "receiver_last_name": "Reinvalde",
+                "company_address": ""
+            },
+            "shipping_address": {
+                "id": 4695333,
+                "title": "Paku Skapis Maxima XX Mūkusalas",
+                "city": "",
+                "address": "Mūkusalas iela 73 ",
+                "post_code": "1004",
+                "phone": "",
+                "address_type": "",
+                "company_name": "",
+                "company_code": "",
+                "company_vat_code": "",
+                "additional_info": "",
+                "receiver_first_name": null,
+                "receiver_last_name": null,
+                "company_address": null
+            },
+            "order_status": "submitted",
+            "payment_status": "paid",
+            "cod_order": 0,
+            "user_comment": "",
+            "weight": "0.35",
+            "discount": "0.00",
+            "delivery_price": "1.69",
+            "serve_price": "0.00",
+            "total_price": "31.59",
+            "deadline_date": "2021-05-10T18:00:00+03:00",
+            "delivery_type": "dpd_pickup",
+            "seller_delivery_type": "direct",
+            "created_at": "2021-05-05T13:04:42+03:00",
+            "updated_at": "2021-05-05T13:09:12+03:00",
+            "products": [
+                {
+                    "id": 4451343,
+                    "modification": {
+                        "id": 8723900,
+                        "external_id": 101,
+                        "app_name": "220.lv",
+                        "title": "PIEGĀDE",
+                        "sku": null,
+                        "ean": null
+                    },
+                    "external_id": 28636417,
+                    "product_type": "delivery",
+                    "amount": 1,
+                    "price": "1.69",
+                    "status": "in_store",
+                    "price_without_vat": "1.40",
+                    "discount": "0.00",
+                    "commission": "0.00",
+                    "commission_without_vat": "0.00"
+                },
+                {
+                    "id": 4451348,
+                    "modification": {
+                        "id": 4043181,
+                        "external_id": 5862391,
+                        "app_name": "220.lv",
+                        "title": "Uzlādējama galda lampa, TaoTronics TT-DL033",
+                        "sku": null,
+                        "ean": "6970651386294"
+                    },
+                    "external_id": 28636420,
+                    "product_type": "product",
+                    "amount": 1,
+                    "price": "29.90",
+                    "status": "empty",
+                    "price_without_vat": "24.71",
+                    "discount": "0.00",
+                    "commission": "4.49",
+                    "commission_without_vat": "4.49"
+                }
+            ],
+            "statuses": [
+                {
+                    "status": "submitted",
+                    "created_at": "2021-05-05T13:04:42+03:00"
+                }
+            ],
+            "invoice_no": null,
+            "prefix": null
+        }
+    ]
+}

@@ -1,0 +1,554 @@
+{
+        "id": 7369,
+        "name": "Išorinė baterija 22000mAh talpos, RAVPower RP-PB052",
+        "slug": "isorine-baterija-22000mah-talpos-ravpower-rp-pb052",
+        "permalink": "https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/",
+        "date_created": "2021-04-28T12:15:17",
+        "date_created_gmt": "2021-04-28T09:15:17",
+        "date_modified": "2021-04-28T12:54:09",
+        "date_modified_gmt": "2021-04-28T09:54:09",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p><strong>Išorinė baterija 22000mAh talpos, RAVPower RP-PB052</strong></p>\n<p>Šis įkroviklis gali tapti visos savaitės energijos šaltiniu jūsų mobiliajam telefonui! Jame įmontuota net 22000 mAh talpos baterija ir trys greitojo įkrovimo 2.4 A jungtys, įkraunančios prietaisus 2,4 karto greičiau, nei įprasta 1 A jungtis. Vienu metu RAVPower RP-PB052 gali įkrauti 3 išmaniuosius telefonus, fotoaparatus, planšetinius kompiuterius ar garso kolonėles.</p>\n<ul>\n<li>Naujosios kartos iSmart USB jungtis užtikrina kiekvienam prietaisui tinkamiausią įkrovimą.</li>\n<li>Didelio tankio ličio polimerų baterija ženkliai prailgina šio įkroviklio naudojimo trukmę.</li>\n<li>Įkroviklio paviršius padengtas aukštos kokybės metalų lydiniu – tokiu pačiu, kokį naudoja Mercedes-Benz, BMW ir kitų prabangių automobilių gamintojai.</li>\n<li>Su integruota apsauga nuo perkrovimo, perkaitinimo ir trumpo jungimo.</li>\n<li>Komplektacijoje yra du mikro USB maitinimo laidai ir maišelis.</li>\n</ul>\n",
+        "short_description": "",
+        "sku": "65-02000-463",
+        "price": "49.99",
+        "regular_price": "49.99",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 20,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "0.54",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [
+            4526,
+            4482,
+            4481,
+            4460,
+            5770
+        ],
+        "cross_sell_ids": [
+            4475,
+            4515,
+            5776
+        ],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Išorinės baterijos",
+                "slug": "isorines-baterijos"
+            },
+            {
+                "id": 79,
+                "name": "Priedai",
+                "slug": "priedai"
+            },
+            {
+                "id": 48,
+                "name": "RAVPower",
+                "slug": "ravpower"
+            }
+        ],
+        "tags": [
+            {
+                "id": 382,
+                "name": "RAVPower",
+                "slug": "ravpower"
+            }
+        ],
+        "images": [
+            {
+                "id": 7374,
+                "date_created": "2021-04-28T15:32:28",
+                "date_created_gmt": "2021-04-28T09:32:28",
+                "date_modified": "2021-04-28T15:32:28",
+                "date_modified_gmt": "2021-04-28T09:32:28",
+                "src": "https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-6.jpeg?fit=1024%2C1024&ssl=1",
+                "name": "RP-PB052 6",
+                "alt": ""
+            },
+            {
+                "id": 7374,
+                "date_created": "2021-04-28T15:32:28",
+                "date_created_gmt": "2021-04-28T09:32:28",
+                "date_modified": "2021-04-28T15:32:28",
+                "date_modified_gmt": "2021-04-28T09:32:28",
+                "src": "https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-6.jpeg?fit=1024%2C1024&ssl=1",
+                "name": "RP-PB052 6",
+                "alt": ""
+            },
+            {
+                "id": 7404,
+                "date_created": "2021-04-28T15:33:27",
+                "date_created_gmt": "2021-04-28T09:33:27",
+                "date_modified": "2021-04-28T15:33:27",
+                "date_modified_gmt": "2021-04-28T09:33:27",
+                "src": "https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-4.jpg?fit=423%2C550&ssl=1",
+                "name": "RP-PB052 4",
+                "alt": ""
+            },
+            {
+                "id": 7399,
+                "date_created": "2021-04-28T15:33:24",
+                "date_created_gmt": "2021-04-28T09:33:24",
+                "date_modified": "2021-04-28T15:33:24",
+                "date_modified_gmt": "2021-04-28T09:33:24",
+                "src": "https://i2.wp.com/omvi.store/wp-content/uploads/RP-PB052-3.jpg?fit=423%2C550&ssl=1",
+                "name": "RP-PB052 3",
+                "alt": ""
+            },
+            {
+                "id": 7379,
+                "date_created": "2021-04-28T15:33:08",
+                "date_created_gmt": "2021-04-28T09:33:08",
+                "date_modified": "2021-04-28T15:33:08",
+                "date_modified_gmt": "2021-04-28T09:33:08",
+                "src": "https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-5.jpg?fit=1000%2C1300&ssl=1",
+                "name": "RP-PB052 5",
+                "alt": ""
+            },
+            {
+                "id": 7384,
+                "date_created": "2021-04-28T15:33:13",
+                "date_created_gmt": "2021-04-28T09:33:13",
+                "date_modified": "2021-04-28T15:33:13",
+                "date_modified_gmt": "2021-04-28T09:33:13",
+                "src": "https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-6.jpg?fit=1000%2C1300&ssl=1",
+                "name": "RP-PB052 6",
+                "alt": ""
+            },
+            {
+                "id": 7389,
+                "date_created": "2021-04-28T15:33:18",
+                "date_created_gmt": "2021-04-28T09:33:18",
+                "date_modified": "2021-04-28T15:33:18",
+                "date_modified_gmt": "2021-04-28T09:33:18",
+                "src": "https://i0.wp.com/omvi.store/wp-content/uploads/RP-PB052-7.jpg?fit=1000%2C1300&ssl=1",
+                "name": "RP-PB052 7",
+                "alt": ""
+            },
+            {
+                "id": 7394,
+                "date_created": "2021-04-28T15:33:22",
+                "date_created_gmt": "2021-04-28T09:33:22",
+                "date_modified": "2021-04-28T15:33:22",
+                "date_modified_gmt": "2021-04-28T09:33:22",
+                "src": "https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-2.jpg?fit=423%2C550&ssl=1",
+                "name": "RP-PB052 2",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 38,
+                "name": "Talpa, mAh",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "20000"
+                ]
+            },
+            {
+                "id": 33,
+                "name": "Krovimo srovė, A",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "5,8"
+                ]
+            },
+            {
+                "id": 39,
+                "name": "Saulės baterija",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ne"
+                ]
+            },
+            {
+                "id": 40,
+                "name": "Atsparumas vandeniui",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Ne"
+                ]
+            },
+            {
+                "id": 36,
+                "name": "iSmart",
+                "position": 5,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Taip"
+                ]
+            },
+            {
+                "id": 41,
+                "name": "LED indikatorius",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Yra"
+                ]
+            },
+            {
+                "id": 42,
+                "name": "Jungtys",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "micro USB",
+                    "USB"
+                ]
+            },
+            {
+                "id": 43,
+                "name": "Papildomos savybės",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Kraukite telefoną ir kompiuterį"
+                ]
+            },
+            {
+                "id": 44,
+                "name": "Korpusas",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Plastikas"
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Spalva",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Juoda"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Garantija, mėn",
+                "position": 11,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "24"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&euro;</span>49,99</bdi></span>",
+        "related_ids": [
+            4538,
+            4519,
+            4542,
+            4537,
+            4535
+        ],
+        "meta_data": [
+            {
+                "id": 199491,
+                "key": "_wpml_word_count",
+                "value": "{\"total\":133,\"to_translate\":{\"en\":133,\"et\":133,\"lv\":133,\"ru\":133}}"
+            },
+            {
+                "id": 199492,
+                "key": "_wpml_media_featured",
+                "value": "1"
+            },
+            {
+                "id": 199493,
+                "key": "_wpml_media_duplicate",
+                "value": "1"
+            },
+            {
+                "id": 199520,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 199521,
+                "key": "_wpml_word_count",
+                "value": "{\"total\":133,\"to_translate\":{\"en\":133,\"et\":133,\"lv\":133,\"ru\":133}}"
+            },
+            {
+                "id": 199522,
+                "key": "_wpml_media_featured",
+                "value": "1"
+            },
+            {
+                "id": 199523,
+                "key": "_wpml_media_duplicate",
+                "value": "1"
+            },
+            {
+                "id": 199524,
+                "key": "_wpml_media_has_media",
+                "value": "1"
+            },
+            {
+                "id": 199525,
+                "key": "wholesale_customer_wholesale_price",
+                "value": ""
+            },
+            {
+                "id": 199526,
+                "key": "didmena_bandymas_wholesale_price",
+                "value": ""
+            },
+            {
+                "id": 199527,
+                "key": "wholesale_customer_wholesale_minimum_order_quantity",
+                "value": ""
+            },
+            {
+                "id": 199528,
+                "key": "didmena_bandymas_wholesale_minimum_order_quantity",
+                "value": ""
+            },
+            {
+                "id": 199529,
+                "key": "wholesale_customer_wholesale_order_quantity_step",
+                "value": ""
+            },
+            {
+                "id": 199530,
+                "key": "didmena_bandymas_wholesale_order_quantity_step",
+                "value": ""
+            },
+            {
+                "id": 199531,
+                "key": "_fl_builder_data_back",
+                "value": ""
+            },
+            {
+                "id": 199532,
+                "key": "_fl_builder_draft_back",
+                "value": ""
+            },
+            {
+                "id": 199533,
+                "key": "_uabb_lite_converted",
+                "value": "yes"
+            },
+            {
+                "id": 199534,
+                "key": "_last_editor_used_jetpack",
+                "value": "classic-editor"
+            },
+            {
+                "id": 199535,
+                "key": "wwpp_post_meta_enable_quantity_discount_rule",
+                "value": ""
+            },
+            {
+                "id": 199536,
+                "key": "wwpp_ignore_cat_level_wholesale_discount",
+                "value": "no"
+            },
+            {
+                "id": 199537,
+                "key": "wwpp_ignore_role_level_wholesale_discount",
+                "value": "no"
+            },
+            {
+                "id": 199538,
+                "key": "wwpp_product_hash",
+                "value": "608930c119bdd6.48493131"
+            },
+            {
+                "id": 199539,
+                "key": "site-sidebar-layout",
+                "value": "default"
+            },
+            {
+                "id": 199540,
+                "key": "site-content-layout",
+                "value": "default"
+            },
+            {
+                "id": 199541,
+                "key": "theme-transparent-header-meta",
+                "value": "default"
+            },
+            {
+                "id": 199542,
+                "key": "PricelistA_wholesale_price",
+                "value": "47.87"
+            },
+            {
+                "id": 199543,
+                "key": "MSRPa_wholesale_price",
+                "value": "52.41"
+            },
+            {
+                "id": 199548,
+                "key": "V_wholesale_price",
+                "value": "31.78"
+            },
+            {
+                "id": 199550,
+                "key": "MSRP_wholesale_price",
+                "value": "49.99"
+            },
+            {
+                "id": 199552,
+                "key": "PricelistA_wholesale_minimum_order_quantity",
+                "value": ""
+            },
+            {
+                "id": 199553,
+                "key": "MSRPa_wholesale_minimum_order_quantity",
+                "value": ""
+            },
+            {
+                "id": 199554,
+                "key": "V_wholesale_minimum_order_quantity",
+                "value": ""
+            },
+            {
+                "id": 199555,
+                "key": "MSRP_wholesale_minimum_order_quantity",
+                "value": ""
+            },
+            {
+                "id": 199556,
+                "key": "PricelistA_wholesale_order_quantity_step",
+                "value": ""
+            },
+            {
+                "id": 199557,
+                "key": "MSRPa_wholesale_order_quantity_step",
+                "value": ""
+            },
+            {
+                "id": 199558,
+                "key": "V_wholesale_order_quantity_step",
+                "value": ""
+            },
+            {
+                "id": 199559,
+                "key": "MSRP_wholesale_order_quantity_step",
+                "value": ""
+            },
+            {
+                "id": 199560,
+                "key": "_yoast_wpseo_content_score",
+                "value": "90"
+            },
+            {
+                "id": 199561,
+                "key": "_yoast_wpseo_estimated-reading-time-minutes",
+                "value": "1"
+            },
+            {
+                "id": 199954,
+                "key": "_yoast_wpseo_primary_product_cat",
+                "value": "79"
+            },
+            {
+                "id": 200097,
+                "key": "wwpp_product_wholesale_visibility_filter",
+                "value": "all"
+            },
+            {
+                "id": 214101,
+                "key": "PricelistA_have_wholesale_price",
+                "value": "yes"
+            },
+            {
+                "id": 214229,
+                "key": "MSRPa_have_wholesale_price",
+                "value": "yes"
+            },
+            {
+                "id": 214356,
+                "key": "V_have_wholesale_price",
+                "value": "yes"
+            },
+            {
+                "id": 214483,
+                "key": "MSRP_have_wholesale_price",
+                "value": "yes"
+            },
+            {
+                "id": 214753,
+                "key": "_product_feed_status_main-product-catalog",
+                "value": "SAVED"
+            }
+        ],
+        "stock_status": "instock",
+        "yoast_head":"<!-- This site is optimized with the Yoast SEO plugin v16.2 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Išorinė baterija 22000mAh talpos, RAVPower RP-PB052 - omvi.store</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/\" />\n<meta property=\"og:locale\" content=\"lt_LT\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Išorinė baterija 22000mAh talpos, RAVPower RP-PB052 - omvi.store\" />\n<meta property=\"og:description\" content=\"Išorinė baterija 22000mAh talpos, RAVPower RP-PB052 Šis įkroviklis gali tapti visos savaitės energijos šaltiniu jūsų mobiliajam telefonui! Jame įmontuota net 22000 mAh talpos baterija ir trys greitojo įkrovimo 2.4 A jungtys, įkraunančios prietaisus 2,4 karto greičiau, nei įprasta 1 A jungtis. Vienu metu RAVPower RP-PB052 gali įkrauti 3 išmaniuosius telefonus, fotoaparatus, planšetinius kompiuterius ar garso &hellip;  Skaityti daugiau &raquo;\" />\n<meta property=\"og:url\" content=\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/\" />\n<meta property=\"og:site_name\" content=\"omvi.store\" />\n<meta property=\"article:modified_time\" content=\"2021-04-28T09:54:09+00:00\" />\n<meta property=\"og:image\" content=\"https://omvi.store/wp-content/uploads/RP-PB052-6.jpeg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"1024\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\">\n\t<meta name=\"twitter:data1\" content=\"1 minutė\">\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://omvi.store/#website\",\"url\":\"https://omvi.store/\",\"name\":\"omvi.store\",\"description\":\"Internetin\ė parduotuv\ė, kurioje rasite i\šskirtines prekes namams.\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://omvi.store/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"lt-LT\"},{\"@type\":\"ImageObject\",\"@id\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/#primaryimage\",\"inLanguage\":\"lt-LT\",\"url\":\"https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-6.jpeg?fit=1024%2C1024&ssl=1\",\"contentUrl\":\"https://i1.wp.com/omvi.store/wp-content/uploads/RP-PB052-6.jpeg?fit=1024%2C1024&ssl=1\",\"width\":1024,\"height\":1024},{\"@type\":\"WebPage\",\"@id\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/#webpage\",\"url\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/\",\"name\":\"I\šorin\ė baterija 22000mAh talpos, RAVPower RP-PB052 - omvi.store\",\"isPartOf\":{\"@id\":\"https://omvi.store/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/#primaryimage\"},\"datePublished\":\"2021-04-28T09:15:17+00:00\",\"dateModified\":\"2021-04-28T09:54:09+00:00\",\"breadcrumb\":{\"@id\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/#breadcrumb\"},\"inLanguage\":\"lt-LT\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https://omvi.store/\",\"url\":\"https://omvi.store/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https://omvi.store/shop/\",\"url\":\"https://omvi.store/shop/\",\"name\":\"Katalogas\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@id\":\"https://omvi.store/produktas/priedai/isorines-baterijos/isorine-baterija-22000mah-talpos-ravpower-rp-pb052/#webpage\"}}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+        "translations": {
+            "en": "7370",
+            "et": "7371",
+            "lt": "7369",
+            "lv": "7372",
+            "ru": "7373"
+        },
+        "lang": "lt",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://omvi.store/wp-json/wc/v3/products/7369"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://omvi.store/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
