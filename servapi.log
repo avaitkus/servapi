@@ -9027,3 +9027,85 @@ INFO:root:2021.07.16:04.03.47: GET: https://omvi.store: products?status=publish&
 INFO:root:2021.07.16:04.03.49: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=lt
 INFO:root:2021.07.16:04.03.50: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=lt
 WARNING:root:2021.07.16:04.03.50: data saved to: PricelistA_lt.json
+INFO:root:2021.07.17:04.02.55: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=lv
+INFO:root:2021.07.17:04.02.58: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=lv
+INFO:root:2021.07.17:04.03.02: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=lv
+INFO:root:2021.07.17:04.03.05: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=lv
+INFO:root:2021.07.17:04.03.07: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=lv
+INFO:root:2021.07.17:04.03.10: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=lv
+INFO:root:2021.07.17:04.03.12: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=lv
+WARNING:root:2021.07.17:04.03.12: data saved to: PricelistA_lv.json
+INFO:root:2021.07.17:04.03.16: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=en
+INFO:root:2021.07.17:04.03.19: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=en
+INFO:root:2021.07.17:04.03.22: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=en
+INFO:root:2021.07.17:04.03.25: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=en
+INFO:root:2021.07.17:04.03.27: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=en
+INFO:root:2021.07.17:04.03.29: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=en
+INFO:root:2021.07.17:04.03.31: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=en
+WARNING:root:2021.07.17:04.03.31: data saved to: PricelistA_en.json
+INFO:root:2021.07.17:04.03.34: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=et
+INFO:root:2021.07.17:04.03.37: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=et
+INFO:root:2021.07.17:04.03.40: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=et
+WARNING:root:2021.07.17:04.03.45: retry GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=et
+INFO:root:2021.07.17:04.03.47: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=et
+INFO:root:2021.07.17:04.03.50: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=et
+INFO:root:2021.07.17:04.03.52: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=et
+INFO:root:2021.07.17:04.03.53: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=et
+WARNING:root:2021.07.17:04.03.54: data saved to: PricelistA_et.json
+INFO:root:2021.07.17:04.03.58: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=ru
+INFO:root:2021.07.17:04.04.03: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=ru
+INFO:root:2021.07.17:04.04.05: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=ru
+INFO:root:2021.07.17:04.04.08: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=ru
+INFO:root:2021.07.17:04.04.12: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=ru
+INFO:root:2021.07.17:04.04.14: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=ru
+INFO:root:2021.07.17:04.04.15: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=ru
+WARNING:root:2021.07.17:04.04.15: data saved to: PricelistA_ru.json
+INFO:root:2021.07.17:04.04.18: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=lt
+INFO:root:2021.07.17:04.04.21: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=lt
+INFO:root:2021.07.17:04.04.23: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=lt
+INFO:root:2021.07.17:04.04.26: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=lt
+INFO:root:2021.07.17:04.04.29: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=lt
+INFO:root:2021.07.17:04.04.31: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=lt
+INFO:root:2021.07.17:04.04.32: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=lt
+WARNING:root:2021.07.17:04.04.32: data saved to: PricelistA_lt.json
+INFO:root:2021.07.18:04.02.03: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=lv
+INFO:root:2021.07.18:04.02.06: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=lv
+INFO:root:2021.07.18:04.02.08: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=lv
+INFO:root:2021.07.18:04.02.10: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=lv
+INFO:root:2021.07.18:04.02.13: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=lv
+INFO:root:2021.07.18:04.02.15: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=lv
+INFO:root:2021.07.18:04.02.16: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=lv
+WARNING:root:2021.07.18:04.02.16: data saved to: PricelistA_lv.json
+INFO:root:2021.07.18:04.02.18: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=en
+INFO:root:2021.07.18:04.02.21: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=en
+INFO:root:2021.07.18:04.02.23: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=en
+INFO:root:2021.07.18:04.02.26: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=en
+INFO:root:2021.07.18:04.02.28: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=en
+INFO:root:2021.07.18:04.02.29: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=en
+INFO:root:2021.07.18:04.02.30: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=en
+WARNING:root:2021.07.18:04.02.30: data saved to: PricelistA_en.json
+INFO:root:2021.07.18:04.02.33: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=et
+INFO:root:2021.07.18:04.02.35: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=et
+INFO:root:2021.07.18:04.02.38: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=et
+INFO:root:2021.07.18:04.02.40: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=et
+INFO:root:2021.07.18:04.02.43: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=et
+INFO:root:2021.07.18:04.02.45: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=et
+INFO:root:2021.07.18:04.02.46: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=et
+WARNING:root:2021.07.18:04.02.46: data saved to: PricelistA_et.json
+INFO:root:2021.07.18:04.02.49: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=ru
+INFO:root:2021.07.18:04.02.51: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=ru
+INFO:root:2021.07.18:04.02.53: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=ru
+INFO:root:2021.07.18:04.02.56: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=ru
+INFO:root:2021.07.18:04.02.58: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=ru
+INFO:root:2021.07.18:04.03.01: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=ru
+INFO:root:2021.07.18:04.03.02: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=ru
+WARNING:root:2021.07.18:04.03.02: data saved to: PricelistA_ru.json
+INFO:root:2021.07.18:04.03.05: GET: https://omvi.store: products?status=publish&per_page=20&page=1&lang=lt
+INFO:root:2021.07.18:04.03.08: GET: https://omvi.store: products?status=publish&per_page=20&page=2&lang=lt
+INFO:root:2021.07.18:04.03.11: GET: https://omvi.store: products?status=publish&per_page=20&page=3&lang=lt
+INFO:root:2021.07.18:04.03.13: GET: https://omvi.store: products?status=publish&per_page=20&page=4&lang=lt
+INFO:root:2021.07.18:04.03.16: GET: https://omvi.store: products?status=publish&per_page=20&page=5&lang=lt
+INFO:root:2021.07.18:04.03.18: GET: https://omvi.store: products?status=publish&per_page=20&page=6&lang=lt
+INFO:root:2021.07.18:04.03.19: GET: https://omvi.store: products?status=publish&per_page=20&page=7&lang=lt
+WARNING:root:2021.07.18:04.03.19: data saved to: PricelistA_lt.json
+INFO:waitress:Client disconnected while serving /
